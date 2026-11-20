@@ -14,6 +14,11 @@
 - **Инструменты:** VS Code, Git, GitHub
 - **Направление:** Frontend/Backend Development
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
 ---
 
 ### 📂 Мои проекты

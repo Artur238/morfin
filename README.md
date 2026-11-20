@@ -9,10 +9,14 @@
 ---
 
 
-### 🛠 Технологии
+### 🛠 Технологии и инструменты
+
+- **Языки:** HTML5, CSS3, JavaScript
+- **Инструменты:** VS Code, Git, GitHub
+- **Направление:** Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ### 💻 Инструменты

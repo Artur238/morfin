@@ -19,13 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-### 💻 Инструменты
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-
 ---
 
 

@@ -21,15 +21,21 @@
 
 ---
 
-### 📂 Мои проекты
 
-**Morfin Landing**
+## 📂 Мои проекты
 
-Одностраничный сайт с адаптивной вёрсткой и современным дизайном.
+### Morfin Landing
 
-- Технологии: HTML, CSS, JavaScript
-- [Посмотреть сайт](https://artur238.github.io/Morfin_lending/)
-- [Исходный код](https://github.com/artur238/Morfin_lending)
+Персональный проект по разработке современного одностраничного сайта.
+
+**Технологии:** HTML5 · CSS3 · JavaScript
+
+**Особенности:**
+- Адаптивная вёрстка
+- Собственный дизайн
+- Интерактивные элементы
+
+[Live Demo](https://artur238.github.io/Morfin_lending/) · [GitHub](https://github.com/artur238/Morfin_lending)
 
 ---
 
